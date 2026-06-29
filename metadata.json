@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Support",
+  "description": "An enterprise-level AI-powered customer support ticketing system featuring real-time chat, AI classification, automated SLA tracking, customer sat surveys, and rich analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
